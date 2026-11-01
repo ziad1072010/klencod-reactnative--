@@ -1,0 +1,5 @@
+{
+  "name": "App",
+  "displayName": "الذره",
+  "android": {"packageName": "com.example.app"}
+}
